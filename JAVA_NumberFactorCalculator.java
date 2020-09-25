@@ -58,7 +58,6 @@ public class FactorNumbers
 
     public static void main(String[] args)
     {
-        returnFactors(13);
         returnFactors(1432412341);
     }
 }
